@@ -1,2 +1,1 @@
-# ExileTweaker
-Pc Tweaker
+EXILE TWEAKER is a dark, cyberpunk-inspired Windows performance utility built for gamers and power users. It brings system optimization, hardware monitoring, game tuning, service management, cleanup tools, and overclocking controls into one clean, gothic-styled dashboard.
